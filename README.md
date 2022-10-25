@@ -33,6 +33,7 @@ A web extension that redirects YouTube, Twitter, Instagram... requests to altern
 - Translate => [SimplyTranslate](https://git.sr.ht/~metalune/simplytranslate_web), [LingvaTranslate](https://github.com/TheDavidDelta/lingva-translate), [LibreTranslate](https://github.com/LibreTranslate/LibreTranslate)
 - Maps => [OpenStreetMap](https://www.openstreetmap.org/), [FacilMap](https://github.com/FacilMap/facilmap)
 - Send Files => [Send](https://gitlab.com/timvisee/send)
+- Crates.io => [Lib.rs](https://lib.rs/about)
 
 **Note**: The Extension will be using random instances by default. You can modify this and add custom instances too.
 
